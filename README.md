@@ -1,3 +1,38 @@
+# User Management SPA
+
+## Description
+
+A simple React-based single-page application that allows users to register, log in, view, and edit their account information. It uses `localStorage` to save user data and Bootstrap for basic styling.
+
+## Features
+
+- Registration page
+- Login page
+- Account information page with edit functionality
+- Stores user details in local storage
+
+## How to Run the Project
+
+1. Install dependencies
+2. Start the application
+3. Open your browser and navigate to `http://localhost:3000` to see the app.
+
+## Built With
+
+- React
+- Bootstrap
+
+## Folder Structure
+
+src/
+├── components/
+│ ├── Account.js
+│ ├── Header.js
+│ ├── Login.js
+│ └── Register.js
+├── App.js
+└── index.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
